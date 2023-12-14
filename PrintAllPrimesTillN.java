@@ -13,14 +13,12 @@ public class PrintAllPrimesTillN {
                     count++;
                     break;
                 }
-
             }
             if (count > 0) {
                 System.out.println("This number is not prime");
             } else {
                 System.out.println("This number is prime");
             }
-
         }
     }
 }
